@@ -20,10 +20,6 @@ c : Run the Terms_extractor/folderdocs2csv_domain.py to create domain wise CSV f
 	3.3.2: Test the model with ML_model/Domain_Terms/model_test_terms.py
 
 
-Drive link
-
-https://drive.google.com/drive/folders/1vxfVpRPOr_g-5Ctrw8ywwd9aLaSJ4zGj?usp=sharing
-
 Required python Pakages:
 -----------------
 
